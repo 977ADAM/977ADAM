@@ -1,26 +1,54 @@
-// See https://aka.ms/new-console-template for more information
-Console.WriteLine("ЯЮниор");
+# 👋 Привет, я Adam
 
-string name;
-int age;
-int programCount;
-int money;
-int time;
-bool truth;
+🎯 Python Developer | 20 y.o. | Backend
 
-name = "Adam";
-age = 18;
-programCount = 1;
-money = 1;
-time = 24;
-truth = true;
+---
 
+## 💻 Обо мне
 
-Console.WriteLine("Здравствуйте, меня зовут " + name + ".");
-Console.WriteLine("Мне " + age + " лет.");
-Console.WriteLine("Я хочу научиться делать игры, это моя " + programCount + " программа на языке C#.");
-Console.WriteLine("Когда я закончу обучение я хочу зарабатывать " + money + " денег в " + time + " наносекунд.");
-Console.WriteLine("Достигну ли я желаемого? " + truth + "!");
+- 🐍 Основной язык: **Python**
+- ⚙️ Люблю: backend, автоматизацию, парсинг, API, DataScience
+- 📚 Постоянно изучаю: архитектуру, оптимизацию
+- 🚀 Цель: стать сильным backend инженером и работать над реальными продуктами
 
+---
 
-Console.ReadKey();
+## 🛠️ Стек
+
+**Языки**
+- Python
+- SQL
+
+**Backend**
+- FastAPI
+- SQLAlchemy
+
+**Базы данных**
+- PostgreSQL
+- SQLite
+- Redis
+
+**Инструменты**
+- Git / GitHub
+- Docker
+- Linux
+- pytest
+
+---
+
+## 📌 Сейчас работаю над
+
+- pet-project API
+- автоматизацией
+- улучшением архитектуры кода
+- алгоритмами и структурами данных
+
+---
+
+## 📈 Принципы
+
+```python
+while alive:
+    learn()
+    code()
+    improve()
