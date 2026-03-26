@@ -6,8 +6,7 @@
 
 ## 💻 Обо мне
 
-- 🐍 Основной язык: **Python**
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+- 🐍 Основной язык: **Python** <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 - ⚙️ Люблю: backend, автоматизацию, парсинг, API, DataScience
 - 📚 Постоянно изучаю: архитектуру, оптимизацию
 - 🚀 Цель: стать сильным backend инженером и работать над реальными продуктами
