@@ -1,6 +1,6 @@
 # 👋 Привет, я Adam
 
-🎯 Python Developer | 20 y.o. | Backend
+🎯 Python Developer | 21 y.o. | Backend
 
 ---
 
